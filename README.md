@@ -2,12 +2,12 @@
 <!-- Robo GIF aligned to right -->
 <img align="right" src="https://raw.githubusercontent.com/thatavidreader/thatavidreader/main/robot.gif" width="150" style="margin-left: 15px; margin-top: 10px;">
 
-### Research and Development | AI and Machine Learning | Cybersecurity | Linux Enthusiast  
+### ✦ Research and Development | AI and Machine Learning | Cybersecurity | Linux Enthusiast  
 I'm a passionate **Computer Science student** exploring cutting-edge technologies and working on exciting projects.
 
 ---
 
-### 🛠️ Tech Stack
+### ✦ Tech Stack
 - **Languages:** C, Python, Java, Dart  
 - **Frameworks:** Flutter, Flask  
 - **Tools:** Linux, Firebase, Docker  
