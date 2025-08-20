@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thatavidreader/thatavidreader/main/banner.png" alt="Banner" width="100%">
-</p>
 
 <!-- Robo GIF -->
 <p align="center">
