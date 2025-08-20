@@ -1,7 +1,7 @@
 
 <!-- Robo GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thatavidreader/thatavidreader/main/robo.gif" alt="Cute Robo" width="150">
+  <img src="https://raw.githubusercontent.com/thatavidreader/thatavidreader/main/robot.gif" alt="Cute Robo" width="150">
 </p>
 
 ---
