@@ -7,7 +7,7 @@
 ---
 
 ## Hey there, I'm **Aishwarya**  
-### Research and Development | AI and Machine Learning | Cybersecurity | Linux Enthusiast  
+#### Research and Development | AI and Machine Learning | Cybersecurity | Linux Enthusiast  
 
 I'm a passionate **Computer Science student** exploring cutting-edge technologies and working on exciting projects.
 
